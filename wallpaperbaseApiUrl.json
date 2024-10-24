@@ -1,0 +1,7 @@
+{
+    "api_url": "https://pixabay.com/api/",
+    "key": "46139035-da827811f1c08d214432d91e0",
+    "data": "wallpaper images",
+    /* This is an intentional comment to cause an error in the browser view */
+    "error_trigger": {"[error]": "true"}
+}
